@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/araucanosland/hello-world-npm.git"   
+    "url": "git+https://github.com/araucanosland/hello-npm.git"   
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
