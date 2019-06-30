@@ -1,0 +1,16 @@
+{
+  "name": "@araucanosland/hello-npm",
+  "version": "1.0.0",
+  "description": "A simple npm package to demonstrate GitHub Package Registry",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araucanosland/hello-world-npm.git"   
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hello", "world", "npm", "package"],
+  "author": "@capradenas",
+  "license": "ISC"
+}
